@@ -1,0 +1,17 @@
+[package]
+name = "vui"
+authors = ["Isse <contact@isse.rs>"]
+version = "0.0.0"
+edition = "2021"
+description = "Game UI"
+
+license = "MIT OR Apache-2.0"
+
+homepage = "https://www.veloren.net"
+repository = "https://github.com/IsseW/vui"
+
+publish = true
+
+readme = "README.md"
+
+[dependencies]
